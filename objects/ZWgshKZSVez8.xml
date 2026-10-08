@@ -4,5 +4,12 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Personas participantes]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="pySHmjKBj8GC"/>
+    <child id="4neaWycQNRgV"/>
+    <child id="5tHnypMZrjfh"/>
+    <child id="dQiHQFdY4Hwx"/>
+    <child id="YBcrn5xxFyNU"/>
+    <child id="pBH9E2xnmTgi"/>
+  </children>
 </object>
